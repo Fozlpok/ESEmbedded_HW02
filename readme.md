@@ -54,4 +54,4 @@ This is the hw02 sample. Please follow the steps below.
 - [x] **If you volunteer to give the presentation next week, check this.**
 
 --------------------
-從image_1中可看出push會採用後進先出、pop先進後出的原則，從image_2可看出原本 push {r2, r0, r1}被組譯器，改成 push {r0, r1, r2}。 
+It can be seen from image_1 that push will adopt the principle of last in, first out and pop advanced. From image_2, it can be seen that the original push {r2, r0, r1} is changed to push {r0, r1, r2}.
